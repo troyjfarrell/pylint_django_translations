@@ -4,5 +4,7 @@
 __pycache__
 # Python in-tree builds
 build
+# Python builds
+dist
 # Python .egg-info files
 *.egg-info
